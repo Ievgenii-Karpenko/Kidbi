@@ -13,7 +13,7 @@ namespace Lesson8
                 string path = @"C:\test\MyFile.txt";
                 string copyPath = @"C:\test\CopyMyFile.txt";
                 //File.Create(path);
-                string content = "My name is Big Boss";
+                string content = "My name is Ievgenii";
 
                 File.WriteAllText(path, content);
 

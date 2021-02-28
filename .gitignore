@@ -1,0 +1,15 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Lesson3/obj
+/Lesson4/obj
+/Lesson5/obj
+/Lesson6/obj
+/Lesson8/obj
+/Lesson3/bin
+/Lesson4/bin
+/Lesson5/bin
+/Lesson6/bin
+/Lesson8/bin
